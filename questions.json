@@ -1,10 +1,12 @@
 [
     {
-        "question": "What is the capital of France?",
-        "answer": "Paris"
+        "category": "Anthony",
+        "question": "What planet is known as the Red Planet?",
+        "answer": "Mars"
     },
     {
-        "question": "Who wrote '1984'?",
-        "answer": "George Orwell"
+        "category": "Chris",
+        "question": "Who was the first President of the United States?",
+        "answer": "George Washington"
     }
 ]
